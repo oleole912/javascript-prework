@@ -1,33 +1,31 @@
 *, *::before, *::after {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .container {
-    max-width: 700px;
-    padding: 40px;
-    margin: 40px;
+  margin-top: 60px;
 }
 
 .header {
-    text-align: center;
+  text-align: center;
 }
 
 #buttons {
-    display: flex;
-    justify-content: center;
-    padding: 15px;
+  display: flex;
+  justify-content: center;
+  padding: 15px;
 }
 
 .button {
-    padding: 5px 15px;
-    border-radius: 4px;
-    margin: 5px;
+  padding: 5px 15px;
+  border-radius: 4px;
+  margin: 5px;
 }
 
 #messages {
-    text-align: center;
-    font-size: 20px;
-    padding: 30px 0;
+  text-align: center;
+  font-size: 20px;
+  padding: 30px 0;
 }
 
 /* #result {
@@ -37,3 +35,4 @@
     text-align: center;
 } */
 
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHNCQUFBO0FDQ0o7O0FER0E7RUFDSSxnQkFBQTtBQ0FKOztBREdBO0VBQ0ksa0JBQUE7QUNBSjs7QURHQTtFQUNJLGFBQUE7RUFDQSx1QkFBQTtFQUNBLGFBQUE7QUNBSjs7QURHQTtFQUNJLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxXQUFBO0FDQUo7O0FER0E7RUFDSSxrQkFBQTtFQUNBLGVBQUE7RUFDQSxlQUFBO0FDQUo7O0FER0E7Ozs7O0dBQUEiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
